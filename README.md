@@ -1,163 +1,175 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Faizan%20Mansuri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20·%20AWS%20Cloud%20Specialist%20·%20Infrastructure%20Automation&descAlignY=58&descSize=18&descColor=93C5FD"/>
-
-<p align="center">
-<a href="https://faizanmansuri77.github.io/faizanmansuri77-portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Visit%20My-Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Shoaib%20Inamdar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20AWS%20Cloud%20%C2%B7%20Infrastructure%20Automation&descAlignY=58&descSize=16&descColor=93C5FD"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=3000&pause=1200&color=00BFA6&lines=Hey!+%F0%9F%91%8B+I'm+Faizan+Mansuri;DevOps+Engineer+%7C+AWS+Cloud+Specialist;Building+Infrastructure+That+Doesn't+Wake+You+Up+At+3AM" />
+<a href="https://www.linkedin.com/in/shoaib-inamdar-537024419/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Shoaib6686">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=850&height=60&duration=3000&pause=1000&color=00BFA6&lines=Hi%2C+I'm+Shoaib+Inamdar;DevOps+Engineer+%7C+AWS+Cloud+Enthusiast;Automating+Infrastructure+and+Deployments;Building+Reliable+Cloud+Solutions"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=850&color=00BFA6&lines=3%2B+Years+Building+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;AWS+%7C+EKS+%7C+Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;Datadog+%7C+CloudWatch+%7C+Prometheus+%7C+Grafana;Building+Scalable+and+Reliable+Systems+%F0%9F%9A%80" />
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin,gmail,github" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=faizanmansuri77&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Shoaib6686&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
-</div>
+---
 
 # ⚡ About Me
 
 ```yaml
-Name: Faizan Mansuri
+Name: Shoaib Inamdar
+Role: DevOps Engineer / Cloud Engineer
+Location: Pune, Maharashtra, India
+Experience: DevOps Internship Experience
 
-Role: DevOps Engineer
-
-Company: INTECHFY SOLUTIONS
-
-Experience: 3+ Years
-
-Specialization:
+Technical Focus:
   - AWS Cloud Infrastructure
-  - Kubernetes & Amazon EKS
-  - Terraform & Infrastructure as Code
-  - CI/CD Pipeline Automation
-  - Docker & Microservices
-  - GitOps & ArgoCD
-  - Monitoring & Observability
   - Linux Administration
+  - Docker & Kubernetes
+  - Terraform & Infrastructure as Code
+  - Jenkins & CI/CD Pipelines
+  - Git & GitHub
+  - SonarQube & Trivy
+  - Prometheus & Grafana
+  - Bash Scripting
+  - Cloud Monitoring & Troubleshooting
 
-Current Focus:
-  - Cloud Native Technologies
-  - Kubernetes Best Practices
-  - Platform Engineering
-  - DevSecOps
-  - Infrastructure Automation
+Current Goals:
+  - Improve AWS Cloud Architecture Skills
+  - Build Reliable CI/CD Pipelines
+  - Automate Infrastructure with Terraform
+  - Strengthen Linux Administration
+  - Practice Kubernetes Deployments
+  - Explore DevSecOps Practices
 
-Philosophy: "Don't just automate deployments — automate confidence."
+Philosophy: "Automate repetitive tasks. Build reliable systems."
 ```
 
 ---
 
-# ☁️ Cloud & Infrastructure
+# ☁️ Cloud & DevOps Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,github,linux,bash,python" />
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,terraform,jenkins,git,github,prometheus,grafana,python" />
 
 </div>
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Technical Skills
 
-## ☁️ Cloud Services
+## ☁️ AWS Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![VPC](https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
-## 🚀 DevOps & CI/CD
+## 🚀 CI/CD & Automation
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## 🐳 Containers & Kubernetes
+## 🐳 Containers & Orchestration
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📊 Monitoring & Observability
+## 📊 Monitoring & Security
 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+
+## 🖥️ Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-# 🏗️ What I Build
+# 🏗️ What I Work On
 
-| Domain | Expertise |
-|----------|----------|
-| ☁️ Cloud Infrastructure | AWS, EKS, EC2, VPC, ALB, S3, Route53, CloudFront |
-| 🛠️ Infrastructure as Code | Terraform Modules, Automated Provisioning, Reusable Infrastructure |
-| 🚀 CI/CD Automation | Jenkins Pipelines, GitHub Actions, GitOps, ArgoCD |
-| 🐳 Container Platforms | Docker, Kubernetes, Helm, Microservices Deployment |
-| 📊 Monitoring | Datadog, CloudWatch, Prometheus, Grafana |
-| 🔐 Security | IAM, Secrets Manager, KMS, CloudTrail, Trivy, SonarQube |
-| 🖥️ Linux Operations | Server Administration, Troubleshooting, Performance Tuning |
+| Domain | Technologies & Tasks |
+|---|---|
+| Cloud Infrastructure | AWS EC2, VPC, IAM, S3, EKS, ECR |
+| Linux Administration | Users, permissions, services, logs, DNS and troubleshooting |
+| Infrastructure as Code | Terraform configuration and infrastructure provisioning |
+| CI/CD Automation | Jenkins pipelines, Git, GitHub webhooks and deployment automation |
+| Containerization | Docker images, containers and Docker Compose |
+| Kubernetes | Deployments, Services, Pods and application troubleshooting |
+| Monitoring | CloudWatch, Prometheus and Grafana |
+| DevSecOps | SonarQube code analysis and Trivy vulnerability scanning |
+| Scripting | Bash scripts for repetitive operational tasks |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 Taskflow — 3-Tier Microservices Platform on AWS EKS
+## 1. EasyCRUD — Application Containerization & DevOps
 
-**Tech Stack:** AWS • EKS • Jenkins • Docker • Helm • ArgoCD • CloudWatch
+**Tech Stack:** Docker · Kubernetes · Jenkins · Terraform · AWS · GitHub
 
-Production-grade 3-tier microservices architecture deployed on AWS EKS with complete CI/CD automation, GitOps workflow, monitoring, and scalable Kubernetes deployments.
+A student registration application used to practice application deployment and DevOps workflows.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/Taskflow-3-Tier-Application)
+**Project highlights:**
+- Work with a Spring Boot backend and frontend application.
+- Containerize application components using Docker.
+- Configure application services and database connectivity.
+- Practice CI/CD pipeline automation with Jenkins.
+- Explore Kubernetes deployment and service configuration.
+- Practice infrastructure provisioning and deployment troubleshooting.
 
----
-
-## 🤖 Ollama AI Model Deployment
-
-**Tech Stack:** Docker • Linux • Bash • CloudWatch
-
-Containerized AI model deployment platform with automated provisioning, monitoring, persistent storage, and infrastructure automation.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/Ollama-AI-Model-Deployment)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shoaib6686/EasyCRUD-Updated)
 
 ---
 
-## 🏥 Medical ERP Platform on AWS EKS
+## 2. AWS Infrastructure Automation
 
-**Tech Stack:** AWS (EKS, ECR, S3, CloudFront, Route53, ACM, IAM) • Kubernetes • Docker • Jenkins • Terraform • Helm • MongoDB Atlas
+**Tech Stack:** AWS · Terraform · Linux · IAM · VPC · EC2 · S3
 
-Full production deployment of a microservices-based Medical ERP application — Terraform-provisioned infrastructure, Spring Boot microservices on EKS, and a React frontend served via S3 and CloudFront.
+Hands-on cloud infrastructure practice focused on provisioning and managing AWS resources.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/edublitz-b2b-medical-erp)
+**Key areas:**
+- Provision AWS infrastructure using Terraform.
+- Configure VPC networking, subnets and security groups.
+- Manage IAM permissions and access.
+- Deploy and troubleshoot Linux-based EC2 instances.
+- Practice Terraform state management and infrastructure updates.
 
 ---
 
-# 🏆 GitHub Achievements
+## 3. CI/CD Pipeline & Container Security
 
-<div align="center">
+**Tech Stack:** Jenkins · GitHub · Docker · SonarQube · Trivy
 
-<img src="https://github-profile-trophy.vercel.app/?username=faizanmansuri77&theme=tokyonight&no-frame=true&row=1&column=7" />
+A DevOps practice workflow focused on automating application build, validation and container delivery.
 
-</div>
+**Key areas:**
+- Integrate GitHub source code with Jenkins.
+- Automate build and deployment stages.
+- Run static code analysis with SonarQube.
+- Scan container images with Trivy.
+- Troubleshoot failed pipeline stages and deployment issues.
 
 ---
 
@@ -165,17 +177,17 @@ Full production deployment of a microservices-based Medical ERP application — 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizanmansuri77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shoaib6686&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanmansuri77&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaib6686&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=faizanmansuri77&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shoaib6686&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanmansuri77&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoaib6686&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -184,12 +196,14 @@ Full production deployment of a microservices-based Medical ERP application — 
 # 🎯 Current Goals
 
 ```text
-☁️ Advanced AWS Architecture
-🐳 Kubernetes Platform Engineering
-🚀 GitOps & ArgoCD Best Practices
-🔐 DevSecOps Automation
-📊 Observability & Reliability Engineering
-🛠️ Infrastructure Automation at Scale
+AWS Cloud Infrastructure
+Linux Administration & Troubleshooting
+Terraform Infrastructure Automation
+Docker & Kubernetes Deployments
+Jenkins CI/CD Pipeline Automation
+Monitoring & Observability
+DevSecOps Fundamentals
+Production-Ready Cloud Projects
 ```
 
 ---
@@ -198,35 +212,39 @@ Full production deployment of a microservices-based Medical ERP application — 
 
 <div align="center">
 
-🌐 **Portfolio**
-https://faizanmansuri77.github.io/faizanmansuri77-portfolio/
+<a href="https://github.com/Shoaib6686">
+<img src="https://img.shields.io/badge/GitHub-Shoaib6686-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/shoaib-inamdar-537024419/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/faizan-mansuri-626a5221b/
+<a href="mailto:inamdars6686@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br>
+<br/><br/>
 
-📧 **Email**
-faizanahmedmansuri@gmail.com
+**GitHub:** https://github.com/Shoaib6686
 
-<br>
+**LinkedIn:** https://www.linkedin.com/in/shoaib-inamdar-537024419/
 
-🐙 **GitHub**
-https://github.com/faizanmansuri77
+**Email:** inamdars6686@gmail.com
+
+**Location:** Pune, Maharashtra, India
 
 </div>
 
 ---
 
-# 💬 DevOps Philosophy
+# 💬 My DevOps Philosophy
 
 <div align="center">
 
-### "Don't just automate deployments — automate confidence."
+### "Automate repetitive tasks. Build reliable systems. Keep improving."
 
-*"Great infrastructure is invisible. Great automation is boring. Great DevOps is both."*
+*Every deployment is an opportunity to make infrastructure more reliable, secure and maintainable.*
 
 </div>
 
